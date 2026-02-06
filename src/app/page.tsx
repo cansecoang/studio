@@ -191,9 +191,9 @@ export default function Home() {
           <div className={cn("absolute inset-0 flex items-center justify-center transition-opacity duration-700", isFading ? 'opacity-0' : 'opacity-100')}>
             <div className={cn("relative z-10 p-4 text-center", isFading ? 'fade-out' : 'fade-in')}>
                <h2 className="mb-8 text-3xl font-bold text-foreground md:text-4xl font-headline">
-                Mi querida Valentín,
+                Mi corazón de mangoo!!,
                 <br />
-                ¿quieres ser la persona con la que comparta mis papitas?
+                ¿quieres ser mi San Valentín?
               </h2>
               <div className="relative mx-auto h-48 w-full max-w-md">
                 <div className="absolute inset-0 flex items-center justify-center">
@@ -214,7 +214,7 @@ export default function Home() {
                   onClick={handleNoInteraction}
                   size="lg"
                 >
-                  No
+                  Do
                 </Button>
               </div>
             </div>
@@ -224,6 +224,7 @@ export default function Home() {
         return (
           <div className={cn("absolute inset-0 flex items-center justify-center text-center transition-opacity duration-700", isFading ? 'fade-out' : 'fade-in')}>
             <div className="p-4">
+            <h2 className="text-4xl font-bold text-foreground md:text-6xl font-headline">Wwiwiwiwiiwiwiw</h2>
               <h2 className="text-4xl font-bold text-foreground md:text-6xl font-headline">¡Es una cita!</h2>
               <p className="mt-4 text-2xl text-foreground/80 md:text-3xl">Te veo el 14 ❤️</p>
             </div>

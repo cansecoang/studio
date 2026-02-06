@@ -158,9 +158,31 @@ export default function Home() {
                 </CardContent>
               </Card>
             ))}
-            <div className={cn("relative z-20 max-w-md p-4 text-center transition-all duration-700", isFading ? 'fade-out' : 'fade-in')}>
+            <div className={cn("relative z-20 flex flex-col items-center max-w-md p-4 text-center transition-all duration-700", isFading ? 'fade-out' : 'fade-in')}>
               <h1 className="mb-4 text-4xl font-bold tracking-tight text-foreground md:text-5xl font-headline">{currentStory.title}</h1>
               <p className="text-lg leading-relaxed text-foreground/80 md:text-xl">{currentStory.text}</p>
+              <div className="mt-8 flex justify-center gap-4">
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className={cn("rounded-full bg-white/50 text-foreground backdrop-blur-sm transition-opacity hover:bg-white/75 disabled:opacity-0", isFading && 'opacity-0')}
+                  onClick={() => handleNavigation('prev')}
+                  disabled={currentStep === 1 || isFading}
+                  aria-label="Paso anterior"
+                >
+                  <ChevronLeft className="h-8 w-8" />
+                </Button>
+                <Button
+                  variant="ghost"
+                  size="icon"
+                  className={cn("rounded-full bg-white/50 text-foreground backdrop-blur-sm transition-opacity hover:bg-white/75", isFading && 'opacity-0')}
+                  onClick={() => handleNavigation('next')}
+                  disabled={isFading}
+                  aria-label="Siguiente paso"
+                >
+                  <ChevronRight className="h-8 w-8" />
+                </Button>
+              </div>
             </div>
           </div>
         );
@@ -213,31 +235,6 @@ export default function Home() {
   return (
     <div className="relative h-full w-full overflow-hidden">
       {renderContent()}
-
-      {viewState === 'story' && (
-        <>
-          <Button
-            variant="ghost"
-            size="icon"
-            className={cn("fixed left-2 top-1/2 z-30 -translate-y-1/2 rounded-full bg-white/50 text-foreground backdrop-blur-sm transition-opacity hover:bg-white/75 disabled:opacity-0 md:left-4", isFading && 'opacity-0')}
-            onClick={() => handleNavigation('prev')}
-            disabled={currentStep === 1 || isFading}
-            aria-label="Paso anterior"
-          >
-            <ChevronLeft className="h-8 w-8" />
-          </Button>
-          <Button
-            variant="ghost"
-            size="icon"
-            className={cn("fixed right-2 top-1/2 z-30 -translate-y-1/2 rounded-full bg-white/50 text-foreground backdrop-blur-sm transition-opacity hover:bg-white/75 md:right-4", isFading && 'opacity-0')}
-            onClick={() => handleNavigation('next')}
-            disabled={isFading}
-            aria-label="Siguiente paso"
-          >
-            <ChevronRight className="h-8 w-8" />
-          </Button>
-        </>
-      )}
     </div>
   );
 }

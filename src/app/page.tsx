@@ -196,14 +196,16 @@ export default function Home() {
                 ¿quieres ser la persona con la que comparta mis papitas?
               </h2>
               <div className="relative mx-auto h-48 w-full max-w-md">
-                <Button
-                  onClick={handleYesClick}
-                  className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 transform-gpu transition-transform duration-300 ease-out"
-                  style={{ transform: `scale(${yesScale}) translate(-50%, -50%)` }}
-                  size="lg"
-                >
-                  {yesButtonPhrases[yesTextIndex]}
-                </Button>
+                <div className="absolute inset-0 flex items-center justify-center">
+                  <Button
+                    onClick={handleYesClick}
+                    className="transform-gpu transition-transform duration-300 ease-out"
+                    style={{ transform: `scale(${yesScale})` }}
+                    size="lg"
+                  >
+                    {yesButtonPhrases[yesTextIndex]}
+                  </Button>
+                </div>
                 <Button
                   variant="destructive"
                   className="absolute transform-gpu transition-all duration-300"

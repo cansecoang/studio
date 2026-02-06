@@ -1,3 +1,244 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Couple holding hands",
+      "imageUrl": "https://images.unsplash.com/photo-1506014299253-3725319c0f69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb3VwbGUlMjBoYW5kc3xlbnwwfHx8fDE3NzAzMzAzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple hands"
+    },
+    {
+      "id": "2",
+      "description": "Sunset kiss",
+      "imageUrl": "https://images.unsplash.com/photo-1661285616641-638d925b45fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdW5zZXQlMjBraXNzfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunset kiss"
+    },
+    {
+      "id": "3",
+      "description": "Laughing together",
+      "imageUrl": "https://images.unsplash.com/photo-1511519620772-8ce30462884f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb3VwbGUlMjBsYXVnaGluZ3xlbnwwfHx8fDE3NzAzNzA3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple laughing"
+    },
+    {
+      "id": "4",
+      "description": "Coffee date",
+      "imageUrl": "https://images.unsplash.com/photo-1644446770253-5c6b45c38ba8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb2ZmZWUlMjBkYXRlfGVufDB8fHx8MTc3MDMzODQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee date"
+    },
+    {
+      "id": "5",
+      "description": "Walking on the beach",
+      "imageUrl": "https://images.unsplash.com/photo-1503022932596-500eb8cca2d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWFjaCUyMHdhbGt8ZW58MHx8fHwxNzcwMzk4MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach walk"
+    },
+    {
+      "id": "6",
+      "description": "Sharing headphones",
+      "imageUrl": "https://images.unsplash.com/photo-1758524945411-e66da1e76f45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb3VwbGUlMjBtdXNpY3xlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple music"
+    },
+    {
+      "id": "7",
+      "description": "City lights",
+      "imageUrl": "https://images.unsplash.com/photo-1525935944571-4e99237764c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2l0eSUyMG5pZ2h0fGVufDB8fHx8MTc3MDM2NzQwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city night"
+    },
+    {
+      "id": "8",
+      "description": "Cooking together",
+      "imageUrl": "https://images.unsplash.com/photo-1488116593952-937c38246bbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb3VwbGUlMjBjb29raW5nfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple cooking"
+    },
+    {
+      "id": "9",
+      "description": "A comforting hug",
+      "imageUrl": "https://images.unsplash.com/photo-1652391662470-88d4a44349c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb3VwbGUlMjBodWd8ZW58MHx8fHwxNzcwMzk4MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple hug"
+    },
+    {
+      "id": "10",
+      "description": "Road trip",
+      "imageUrl": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyb2FkJTIwdHJpcHxlbnwwfHx8fDE3NzAzOTgyNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "road trip"
+    },
+    {
+      "id": "11",
+      "description": "Picnic in a park",
+      "imageUrl": "https://images.unsplash.com/photo-1610996229637-5e02279e4c19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwaWNuaWMlMjBsb3ZlfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "picnic love"
+    },
+    {
+      "id": "12",
+      "description": "Dancing in the rain",
+      "imageUrl": "https://images.unsplash.com/photo-1566902249079-c97d67671278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb3VwbGUlMjBkYW5jaW5nfGVufDB8fHx8MTc3MDMxMjc0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple dancing"
+    },
+    {
+      "id": "13",
+      "description": "Watching a movie",
+      "imageUrl": "https://images.unsplash.com/photo-1721733258290-cac1a9204564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3ZpZSUyMG5pZ2h0fGVufDB8fHx8MTc3MDM4NjM3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "movie night"
+    },
+    {
+      "id": "14",
+      "description": "Stargazing",
+      "imageUrl": "https://images.unsplash.com/photo-1657048008349-39ae9686790b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdGFyZ2F6aW5nJTIwY291cGxlfGVufDB8fHx8MTc3MDM5MDc4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stargazing couple"
+    },
+    {
+      "id": "15",
+      "description": "Building a snowman",
+      "imageUrl": "https://images.unsplash.com/photo-1610204770823-cc2b899425e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3aW50ZXIlMjBmdW58ZW58MHx8fHwxNzcwMzk4MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "winter fun"
+    },
+    {
+      "id": "16",
+      "description": "Holding an umbrella",
+      "imageUrl": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyYWlueSUyMGRheXxlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rainy day"
+    },
+    {
+      "id": "17",
+      "description": "A shared smile",
+      "imageUrl": "https://images.unsplash.com/photo-1751965463532-bceb08bd4d41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y291cGxlJTIwc21pbGV8ZW58MHx8fHwxNzcwMzk4MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple smile"
+    },
+    {
+      "id": "18",
+      "description": "Adventure in the mountains",
+      "imageUrl": "https://images.unsplash.com/photo-1571782605941-8c8fd0d43df6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb3VudGFpbiUyMGhpa2V8ZW58MHx8fHwxNzcwMzc5NjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain hike"
+    },
+    {
+      "id": "19",
+      "description": "Reading a book together",
+      "imageUrl": "https://images.unsplash.com/photo-1460518451285-97b6aa326961?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWFkaW5nJTIwdG9nZXRoZXJ8ZW58MHx8fHwxNzcwMzAwMDEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reading together"
+    },
+    {
+      "id": "20",
+      "description": "Celebrating a birthday",
+      "imageUrl": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiaXJ0aGRheSUyMGNlbGVicmF0aW9ufGVufDB8fHx8MTc3MDM4MDExOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "birthday celebration"
+    },
+    {
+      "id": "21",
+      "description": "Forehead kiss",
+      "imageUrl": "https://images.unsplash.com/photo-1514480657081-a987d9a45e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmb3JlaGVhZCUyMGtpc3N8ZW58MHx8fHwxNzcwMzk4MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forehead kiss"
+    },
+    {
+      "id": "22",
+      "description": "A candid moment",
+      "imageUrl": "https://images.unsplash.com/photo-1683744579319-66ad27b5ffc3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYW5kaWQlMjBsb3ZlfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "candid love"
+    },
+    {
+      "id": "23",
+      "description": "Looking at the future",
+      "imageUrl": "https://images.unsplash.com/photo-1555504621-60558fd0626b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb3VwbGUlMjBob3Jpem9ufGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple horizon"
+    },
+    {
+      "id": "24",
+      "description": "A bouquet of flowers",
+      "imageUrl": "https://images.unsplash.com/photo-1503135935062-b7d1f5a0690f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsb3ZlJTIwZmxvd2Vyc3xlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "love flowers"
+    },
+    {
+      "id": "25",
+      "description": "Holding a puppy",
+      "imageUrl": "https://images.unsplash.com/photo-1566903026052-36e4e1bd803a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb3VwbGUlMjBwdXBweXxlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple puppy"
+    },
+    {
+      "id": "26",
+      "description": "Skating together",
+      "imageUrl": "https://images.unsplash.com/photo-1609987051964-7bc15e54e9bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2thdGluZyUyMGNvdXBsZXxlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skating couple"
+    },
+    {
+      "id": "27",
+      "description": "A secret whisper",
+      "imageUrl": "https://images.unsplash.com/photo-1768947563931-e53cabb7bd2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb3VwbGUlMjBzZWNyZXR8ZW58MHx8fHwxNzcwMzk4MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple secret"
+    },
+    {
+      "id": "28",
+      "description": "At a concert",
+      "imageUrl": "https://images.unsplash.com/photo-1683612727901-47fedad8593b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb25jZXJ0JTIwZnVufGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "concert fun"
+    },
+    {
+      "id": "29",
+      "description": "Reflection in water",
+      "imageUrl": "https://images.unsplash.com/photo-1720722992839-bc096973785c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb3VwbGUlMjByZWZsZWN0aW9ufGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple reflection"
+    },
+    {
+      "id": "30",
+      "description": "Decorating a Christmas tree",
+      "imageUrl": "https://images.unsplash.com/photo-1700083663021-3c99dd50c702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjaHJpc3RtYXMlMjBsb3ZlfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "christmas love"
+    },
+    {
+      "id": "31",
+      "description": "Piggyback ride",
+      "imageUrl": "https://images.unsplash.com/photo-1766717699521-6b24088a0e75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwaWdneWJhY2slMjByaWRlfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "piggyback ride"
+    },
+    {
+      "id": "32",
+      "description": "A close up of intertwined fingers",
+      "imageUrl": "https://images.unsplash.com/photo-1760669172921-6f69e6329c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbnRlcnR3aW5lZCUyMGZpbmdlcnN8ZW58MHx8fHwxNzcwMzk4MjUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "intertwined fingers"
+    },
+    {
+      "id": "33",
+      "description": "Sharing an ice cream",
+      "imageUrl": "https://images.unsplash.com/photo-1600628421066-f6bda6a7b976?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzaGFyaW5nJTIwZm9vZHxlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sharing food"
+    },
+    {
+      "id": "34",
+      "description": "Boat ride on a lake",
+      "imageUrl": "https://images.unsplash.com/photo-1542856391-010fb87dcfed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsYWtlJTIwYm9hdHxlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lake boat"
+    },
+    {
+      "id": "35",
+      "description": "Swinging on a swing set",
+      "imageUrl": "https://images.unsplash.com/photo-1766202511545-17f2b1d6defa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb3VwbGUlMjBzd2luZ3xlbnwwfHx8fDE3NzAzOTgyNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "couple swing"
+    },
+    {
+      "id": "36",
+      "description": "Hands making a heart shape",
+      "imageUrl": "https://images.unsplash.com/photo-1560821829-18a5fbb8b4ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxoZWFydCUyMGhhbmRzfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "heart hands"
+    },
+    {
+      "id": "37",
+      "description": "Laughing at a silly face",
+      "imageUrl": "https://images.unsplash.com/photo-1682348686716-9a71d77e681c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzaWxseSUyMGZhY2V8ZW58MHx8fHwxNzcwMjk2NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silly face"
+    },
+    {
+      "id": "38",
+      "description": "Visiting an art gallery",
+      "imageUrl": "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhcnQlMjBnYWxsZXJ5fGVufDB8fHx8MTc3MDM3ODIwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art gallery"
+    },
+    {
+      "id": "39",
+      "description": "A warm fireplace",
+      "imageUrl": "https://images.unsplash.com/photo-1609537643158-a0fe43b1d830?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3p5JTIwZmlyZXBsYWNlfGVufDB8fHx8MTc3MDMwNTM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cozy fireplace"
+    },
+    {
+      "id": "40",
+      "description": "Looking at each other",
+      "imageUrl": "https://images.unsplash.com/photo-1760669335467-fc3a56ae4dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb3ZpbmclMjBnYXplfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "loving gaze"
+    }
+  ]
 }

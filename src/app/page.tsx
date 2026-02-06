@@ -150,7 +150,7 @@ export default function Home() {
                   <Image
                     data-ai-hint={placeholder.imageHint}
                     src={placeholder.imageUrl}
-                    alt={`${placeholder.description} (path: ${placeholder.imageUrl})`}
+                    alt={placeholder.description}
                     width={400}
                     height={300}
                     className="aspect-[4/3] object-cover"

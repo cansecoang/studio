@@ -2,63 +2,63 @@
   "placeholderImages": [
     {
       "id": "1",
-      "description": "Replace with your personal photo 1",
-      "imageUrl": "https://images.unsplash.com/photo-1624646803808-9c5a9de7aa3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb3VwbGUlMjBzbWlsaW5nfGVufDB8fHx8MTc3MDMzMTIwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "couple smiling"
+      "description": "A beautiful memory",
+      "imageUrl": "/images/story-images/1.jpg",
+      "imageHint": ""
     },
     {
       "id": "2",
-      "description": "Replace with your personal photo 2",
-      "imageUrl": "https://images.unsplash.com/photo-1599498253880-13ffa6332c12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aG9sZGluZyUyMGhhbmRzfGVufDB8fHx8MTc3MDQwMTQ5OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "holding hands"
+      "description": "A special moment",
+      "imageUrl": "/images/story-images/2.jpg",
+      "imageHint": ""
     },
     {
       "id": "3",
-      "description": "Replace with your personal photo 3",
-      "imageUrl": "https://images.unsplash.com/photo-1699726249918-3a660b65ccb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdW5zZXQlMjBraXNzfGVufDB8fHx8MTc3MDM5ODI1MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "sunset kiss"
+      "description": "A day to remember",
+      "imageUrl": "/images/story-images/3.jpg",
+      "imageHint": ""
     },
     {
       "id": "4",
-      "description": "Replace with your personal photo 4",
-      "imageUrl": "https://images.unsplash.com/photo-1565281923295-fafb75ca754d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsYXVnaGluZyUyMHRvZ2V0aGVyfGVufDB8fHx8MTc3MDQwMjIxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "laughing together"
+      "description": "Just us",
+      "imageUrl": "/images/story-images/4.jpg",
+      "imageHint": ""
     },
     {
       "id": "5",
-      "description": "Replace with your personal photo 5",
-      "imageUrl": "https://images.unsplash.com/photo-1601758004484-733647916908?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmaXJzdCUyMGRhdGV8ZW58MHx8fHwxNzcwNDAyMDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "first date"
+      "description": "So much fun",
+      "imageUrl": "/images/story-images/5.jpg",
+      "imageHint": ""
     },
     {
       "id": "6",
-      "description": "Replace with your personal photo 6",
-      "imageUrl": "https://images.unsplash.com/photo-1506953823976-52e1fdc0149a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiZWFjaCUyMHZhY2F0aW9ufGVufDB8fHx8MTc3MDQwMjYzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "beach vacation"
+      "description": "That perfect day",
+      "imageUrl": "/images/story-images/6.jpg",
+      "imageHint": ""
     },
     {
       "id": "7",
-      "description": "Replace with your personal photo 7",
-      "imageUrl": "https://images.unsplash.com/photo-1661980768985-8b03bc7bde70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcGVjaWFsJTIwbW9tZW50fGVufDB8fHx8MTc3MDQwMjYzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "special moment"
+      "description": "Our adventure",
+      "imageUrl": "/images/story-images/7.jpg",
+      "imageHint": ""
     },
     {
       "id": "8",
-      "description": "Replace with your personal photo 8",
-      "imageUrl": "https://images.unsplash.com/photo-1742197166823-071678bdad37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3p5JTIwaHVnfGVufDB8fHx8MTc3MDQwMjYzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "cozy hug"
+      "description": "Pure happiness",
+      "imageUrl": "/images/story-images/8.jpg",
+      "imageHint": ""
     },
     {
       "id": "9",
-      "description": "Replace with your personal photo 9",
-      "imageUrl": "https://images.unsplash.com/photo-1660164965085-e90dfb2f6492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhZHZlbnR1cmUlMjB0aW1lfGVufDB8fHx8MTc3MDQwMjYzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "adventure time"
+      "description": "Another great memory",
+      "imageUrl": "/images/story-images/9.jpg",
+      "imageHint": ""
     },
     {
       "id": "10",
-      "description": "Replace with your personal photo 10",
-      "imageUrl": "https://images.unsplash.com/photo-1685041552051-13de9e56228c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaWxseSUyMGZhY2V8ZW58MHx8fHwxNzcwMjk2NTEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "silly face"
+      "description": "My favorite picture of us",
+      "imageUrl": "/images/story-images/10.jpg",
+      "imageHint": ""
     }
   ]
 }

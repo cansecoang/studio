@@ -3,61 +3,205 @@
     {
       "id": "1",
       "description": "A beautiful memory",
-      "imageUrl": "/images/story-images/1.jpg",
+      "imageUrl": "/images/story-images/1.jpeg",
       "imageHint": ""
     },
     {
       "id": "2",
       "description": "A special moment",
-      "imageUrl": "/images/story-images/2.jpg",
+      "imageUrl": "/images/story-images/2.jpeg",
       "imageHint": ""
     },
     {
       "id": "3",
       "description": "A day to remember",
-      "imageUrl": "/images/story-images/3.jpg",
+      "imageUrl": "/images/story-images/3.jpeg",
       "imageHint": ""
     },
     {
       "id": "4",
       "description": "Just us",
-      "imageUrl": "/images/story-images/4.jpg",
+      "imageUrl": "/images/story-images/4.jpeg",
       "imageHint": ""
     },
     {
       "id": "5",
       "description": "So much fun",
-      "imageUrl": "/images/story-images/5.jpg",
+      "imageUrl": "/images/story-images/5.jpeg",
       "imageHint": ""
     },
     {
       "id": "6",
       "description": "That perfect day",
-      "imageUrl": "/images/story-images/6.jpg",
+      "imageUrl": "/images/story-images/6.jpeg",
       "imageHint": ""
     },
     {
       "id": "7",
       "description": "Our adventure",
-      "imageUrl": "/images/story-images/7.jpg",
+      "imageUrl": "/images/story-images/7.jpeg",
       "imageHint": ""
     },
     {
       "id": "8",
       "description": "Pure happiness",
-      "imageUrl": "/images/story-images/8.jpg",
+      "imageUrl": "/images/story-images/8.jpeg",
       "imageHint": ""
     },
     {
       "id": "9",
       "description": "Another great memory",
-      "imageUrl": "/images/story-images/9.jpg",
+      "imageUrl": "/images/story-images/9.jpeg",
       "imageHint": ""
     },
     {
       "id": "10",
       "description": "My favorite picture of us",
-      "imageUrl": "/images/story-images/10.jpg",
+      "imageUrl": "/images/story-images/10.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "1",
+      "description": "A beautiful memory",
+      "imageUrl": "/images/story-images/11.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "2",
+      "description": "A special moment",
+      "imageUrl": "/images/story-images/12.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "3",
+      "description": "A day to remember",
+      "imageUrl": "/images/story-images/13.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "4",
+      "description": "Just us",
+      "imageUrl": "/images/story-images/14.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "5",
+      "description": "So much fun",
+      "imageUrl": "/images/story-images/15.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "6",
+      "description": "That perfect day",
+      "imageUrl": "/images/story-images/16.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "7",
+      "description": "Our adventure",
+      "imageUrl": "/images/story-images/17.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "8",
+      "description": "Pure happiness",
+      "imageUrl": "/images/story-images/18.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "9",
+      "description": "Another great memory",
+      "imageUrl": "/images/story-images/19.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "10",
+      "description": "My favorite picture of us",
+      "imageUrl": "/images/story-images/20.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "1",
+      "description": "A beautiful memory",
+      "imageUrl": "/images/story-images/21.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "2",
+      "description": "A special moment",
+      "imageUrl": "/images/story-images/22.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "3",
+      "description": "A day to remember",
+      "imageUrl": "/images/story-images/23.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "4",
+      "description": "Just us",
+      "imageUrl": "/images/story-images/24.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "5",
+      "description": "So much fun",
+      "imageUrl": "/images/story-images/25.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "6",
+      "description": "That perfect day",
+      "imageUrl": "/images/story-images/26.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "7",
+      "description": "Our adventure",
+      "imageUrl": "/images/story-images/27.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "8",
+      "description": "Pure happiness",
+      "imageUrl": "/images/story-images/28.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "9",
+      "description": "Another great memory",
+      "imageUrl": "/images/story-images/29.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "10",
+      "description": "My favorite picture of us",
+      "imageUrl": "/images/story-images/30.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "9",
+      "description": "Another great memory",
+      "imageUrl": "/images/story-images/31.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "10",
+      "description": "My favorite picture of us",
+      "imageUrl": "/images/story-images/32.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "9",
+      "description": "Another great memory",
+      "imageUrl": "/images/story-images/33.jpeg",
+      "imageHint": ""
+    },
+    {
+      "id": "10",
+      "description": "My favorite picture of us",
+      "imageUrl": "/images/story-images/34.jpeg",
       "imageHint": ""
     }
   ]

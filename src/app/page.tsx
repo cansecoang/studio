@@ -8,6 +8,8 @@ import { Card, CardContent } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
 import { storySteps, yesButtonPhrases } from './story-data';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
+import PeekingCharacter from '@/components/peeking-character';
+import SecretSection from '@/components/secret-section';
 
 type ImageStyle = {
   top: string;
@@ -28,6 +30,7 @@ export default function Home() {
   const [viewState, setViewState] = useState<'story' | 'question' | 'confirmation'>('story');
   const [isFading, setIsFading] = useState(false);
   const [isClient, setIsClient] = useState(false);
+  const [showSecretSection, setShowSecretSection] = useState(false);
 
   // For the question view
   const [noPosition, setNoPosition] = useState({ top: '60%', left: '60%' });
@@ -236,8 +239,12 @@ export default function Home() {
   };
 
   return (
-    <div className="relative h-full w-full overflow-hidden">
-      {renderContent()}
-    </div>
+    <>
+      <div className="relative h-full w-full overflow-hidden">
+        {renderContent()}
+      </div>
+      <PeekingCharacter onClick={() => setShowSecretSection(true)} />
+      <SecretSection isVisible={showSecretSection} />
+    </>
   );
 }
